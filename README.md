@@ -8,7 +8,7 @@
 <h1 align="center">✨ Hello! I'm Nourhan AbdoEl-Sayed Ismail Gad ✨</h1>
 
 <p align="center">
-  <em>🎨 Aspiring Frontend Developer | 💻 UI Enthusiast | 🌱 Lifelong Learner</em>
+  <em>🎨 Aspiring Frontend Developer | 💻 UI Enthusiast | 🧠 Problem Solver</em>
 </p>
 
 ---
@@ -63,10 +63,10 @@
 <!-- Social Links -->
 ### 🌐 Connect With Me
 <p align="center">
-  <a href="https://github.com/nourhanabdoelsayed" target="_blank">
+  <a href="[https://github.com/nourhanabdoelsayed](https://github.com/N00UUR)" target="_blank">
      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="40" width="40" />
   </a>
-  <a href="https://www.linkedin.com/in/nourhan-abdoelsayed" target="_blank">
+  <a href="[https://www.linkedin.com/in/nourhan-abdoelsayed](https://www.linkedin.com/in/nourhan-gad?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" height="40" width="40" />
   </a>
   <a href="mailto:ngad99441@gmail.com" target="_blank">
