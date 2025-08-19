@@ -1,11 +1,11 @@
-## Hi there 👋
+
 
 <!--
 *NourhanAbdoElSayed/nourhanabdoelsayed* is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
 -->
 
 <!-- Header -->
-<h1 align="center">✨ Hello! I'm Nourhan AbdoEl-Sayed Ismail Gad ✨</h1>
+<h1 align="center"> Hello! I'm Nourhan AbdoEl-Sayed Ismail Gad </h1>
 
 <p align="center">
   <em>🎨 Aspiring Frontend Developer | 💻 UI Enthusiast | 🧠 Problem Solver</em>
